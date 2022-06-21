@@ -1,2 +1,2 @@
-# portafolio
-Estos son los proyecto que estan terminado para que puedan evaluar el nivel de programacion que tengo
+# proyectos
+Proyectos Finales del curso de Netmind 2022
